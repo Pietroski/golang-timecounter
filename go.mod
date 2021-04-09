@@ -1,4 +1,3 @@
-// module pietroski.xyz/timecounter
-module github.com/Pietroski/timecounter
+module github.com/Pietroski/golang-timecounter
 
 go 1.16

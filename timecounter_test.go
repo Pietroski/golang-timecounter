@@ -2,7 +2,7 @@ package timecounter
 
 import (
 	"fmt"
-	"github.com/Pietroski/timecounter/timescale"
+	"github.com/Pietroski/golang-timecounter/timescale"
 	"testing"
 )
 
